@@ -94,13 +94,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-# ── HOW TO USE ───────────────────────────────────────────────
-# python3 port_scanner.py
-# Enter: scanme.nmap.org  (this is a legal test target by nmap)
-# Enter: start port: 1
-# Enter: end port: 1024
-#
-# ⚠️  ETHICAL USE ONLY — Only scan hosts you own or have
-#     written permission to test. Unauthorized scanning
-#     is illegal under the IT Act 2000 (India).
-# ─────────────────────────────────────────────────────────────
+
+# ────────────────────────────────────────────────────────────
